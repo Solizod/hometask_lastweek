@@ -1,0 +1,1 @@
+This is a simple example to demonstrate the use of this function. These examples are helpful for understanding how to work with text files. This article explains how to count specific words in a file. These techniques are essential for text processing.
